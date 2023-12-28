@@ -1,0 +1,18 @@
+Interface: 000, type: 000000, MAC: 00:00:00:00:00:00, IPv4: 000.000.00.00
+192.168.86.1	00:00:00:00:00:00	Google, Inc.
+192.168.86.245	00:00:00:00:00:00	REALTEK SEMICONDUCTOR CORP.
+192.168.86.25	00:00:00:00:00:00	Google, Inc.
+192.168.86.34	00:00:00:00:00:00	Google, Inc.
+192.168.86.33	00:00:00:00:00:00	Silicon Laboratories
+192.168.86.27	00:00:00:00:00:00	Amazon Technologies Inc.
+192.168.86.21	00:00:00:00:00:00	TELECOMUNICATION TECHNOLOGIES LTD.
+192.168.86.39	00:00:00:00:00:00	Samsung Electronics Co.,Ltd
+192.168.86.47	00:00:00:00:00:00	Google, Inc.
+192.168.86.29	00:00:00:00:00:00	Samsung Electronics Co.,Ltd
+192.168.86.24	00:00:00:00:00:00	Amazon Technologies Inc.
+192.168.86.38	00:00:00:00:00:00	(Unknown: locally administered)
+192.168.86.23	00:00:00:00:00:00	Texas Instruments
+192.168.86.26	00:00:00:00:00:00	Tuya Smart Inc.
+192.168.86.28	00:00:00:00:00:00	(Unknown: locally administered)
+192.168.86.22	00:00:00:00:00:00	Dell Inc.
+192.168.86.42	00:00:00:00:00:00	Samsung Electronics Co.,Ltd

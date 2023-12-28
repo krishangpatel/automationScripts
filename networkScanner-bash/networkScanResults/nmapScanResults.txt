@@ -1,0 +1,5 @@
+# Nmap 7.94 scan initiated Thu Dec 20 00:00:00 2000 as: nmap -sP -n -oN network_scan_results/nmap_scan_results.txt 192.168.86.00
+Nmap scan report for 192.168.86.00
+Host is up (0.0066s latency).
+MAC Address: 00:00:00:00:00:00 (Google)
+# Nmap done at Thu Dec 20 00:00:00 2000 -- 1 IP address (1 host up) scanned in 0.05 seconds
